@@ -31,7 +31,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "css-loader": "^0.25.0",
     "exports-loader": "^0.6.3",
-    "file-loader": "^0.9.0",
+    "file-loader": "^0.11.2",
     "material-design-icons": "^3.0.1",
     "style-loader": "^0.13.1",
     "webpack": "^2.2.1",
