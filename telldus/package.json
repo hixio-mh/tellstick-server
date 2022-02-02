@@ -11,8 +11,8 @@
   "dependencies": {
     "babel-runtime": "6.x",
     "dialog-polyfill": "^0.4.4",
-    "react": "15.x",
-    "react-dom": "15.x",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
     "react-markdown": "^2.4.6",
     "react-mdl": "^1.7.1",
     "react-redux": "^4.4.5",
@@ -35,7 +35,7 @@
     "material-design-icons": "^3.0.1",
     "style-loader": "^0.13.1",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0",
+    "webpack-dev-server": "^4.7.3",
     "webpack-material-design-icons": "0.0.2"
   },
   "author": "Micke Prag"
